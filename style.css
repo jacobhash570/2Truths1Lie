@@ -1,0 +1,19 @@
+h1{ 
+    text-decoration: underline;
+}
+.first{
+    background-color: mediumaquamarine;
+}
+
+.second{
+    background-color: mediumvioletred;
+}
+
+#third{
+    background-color: moccasin;
+}
+
+.formSection { 
+    margin: 1rem;
+    padding: 1rem;
+}
